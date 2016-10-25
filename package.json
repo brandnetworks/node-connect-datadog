@@ -11,7 +11,7 @@
 		"datadog",
 		"middleware"
 	],
-	"author": "Brand Networks",
+	"author": "App Press",
 	"license": "MIT",
 	"readmeFilename": "README.md",
 	"dependencies": {
